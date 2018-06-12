@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/iteminfo" android:orientation="vertical"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:layout_marginTop="5dp"
+	android:weightSum="1">
+	<LinearLayout android:id="@+id/linearLayout1"
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent"
+			android:orientation="vertical" 
+			android:layout_weight="0.06">
+		<RelativeLayout android:layout_height="wrap_content" 
+			android:layout_width="match_parent">
+
+			<Button
+				android:id="@+id/btnoutinfo"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="报废传感器汇总"
+				android:textColor="#20B2AA"
+				android:textSize="20dp" />
+
+			<Button
+				android:id="@+id/btnininfo"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentStart="true"
+				android:layout_below="@+id/btnoutinfo"
+				android:text="新增传感器汇总"
+
+				android:textColor="#20B2AA"
+				android:textSize="20dp" />
+
+			<Button
+				android:id="@+id/btnflaginfo"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentEnd="true"
+				android:layout_centerVertical="true"
+				android:layout_marginEnd="63dp"
+				android:text="便签信息"
+				android:textColor="#20B2AA"
+				android:textSize="20dp" />
+		</RelativeLayout>
+		</LinearLayout>
+		<LinearLayout android:id="@+id/linearLayout2"
+			android:layout_height="wrap_content" 
+			android:layout_width="match_parent"
+			android:orientation="vertical" 
+			android:layout_weight="0.94">
+		<ListView android:id="@+id/lvinfo" 
+			android:layout_width="match_parent" 
+			android:layout_height="match_parent"
+			android:scrollbarAlwaysDrawVerticalTrack="true"
+			/>
+	</LinearLayout>
+</LinearLayout>

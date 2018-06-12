@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="outtype">
+	   <item>温度</item>
+	   <item>湿度</item>
+	   <item>亮度</item>
+	   <item>烟雾浓度</item>
+	   <item>PM2.5浓度</item>
+	   <item>噪声</item>
+	   <item>其他</item>
+   </string-array>
+   <string-array name="intype">
+   		<item>温度</item>
+   		<item>湿度</item>
+   		<item>亮度</item>
+   		<item>烟雾浓度</item>
+	    <item>PM2.5浓度</item>
+	    <item>噪声</item>
+   		<item>其他</item>
+   </string-array>
+	<string-array name="protype">
+		<item>智慧家居</item>
+		<item>智慧农场</item>
+		<item>智慧养殖场</item>
+		<item>智慧路灯</item>
+		<item>智慧天气</item>
+		<item>智慧广播</item>
+		<item>其他</item>
+	</string-array>
+</resources>

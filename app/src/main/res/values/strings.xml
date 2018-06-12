@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main">ZigBee环境监测助手</string>
+    <string name="app_name">ZigBee环境监测助手</string>
+    <string name="login">系统登录</string>
+    <string name="addoutaccount">报废传感器</string>
+    <string name="addinaccount">新增传感器</string>
+    <string name="outaccountinfo">查看报废传感器</string>
+    <string name="inaccountinfo">查看已有传感器</string>
+    <string name="showinfo">传感器管理</string>
+    <string name="tem">温度</string>
+    <string name="hum">湿度</string>
+    <string name="bri">亮度</string>
+    <string name="smoke">烟雾浓度</string>
+    <string name="noise">噪声</string>
+    <string name="smoke2.5">PM2.5浓度</string>
+    <string name="sysset">系统设置</string>
+    <string name="accountflag">收支便签</string>
+    <string name="infomanage">收支管理</string>
+    <string name="flagmanage">便签管理</string>
+        <string name="help">帮助</string>
+        <string name="chart">统计图表</string>
+    <string name="action_settings">Settings</string>
+</resources>

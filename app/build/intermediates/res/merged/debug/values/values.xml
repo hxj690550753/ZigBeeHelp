@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intype">
+   		<item>温度</item>
+   		<item>湿度</item>
+   		<item>亮度</item>
+   		<item>烟雾浓度</item>
+	    <item>PM2.5浓度</item>
+	    <item>噪声</item>
+   		<item>其他</item>
+   </string-array>
+    <string-array name="outtype">
+	   <item>温度</item>
+	   <item>湿度</item>
+	   <item>亮度</item>
+	   <item>烟雾浓度</item>
+	   <item>PM2.5浓度</item>
+	   <item>噪声</item>
+	   <item>其他</item>
+   </string-array>
+    <string-array name="protype">
+		<item>智慧家居</item>
+		<item>智慧农场</item>
+		<item>智慧养殖场</item>
+		<item>智慧路灯</item>
+		<item>智慧天气</item>
+		<item>智慧广播</item>
+		<item>其他</item>
+	</string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="accountflag">收支便签</string>
+    <string name="action_settings">Settings</string>
+    <string name="addinaccount">新增传感器</string>
+    <string name="addoutaccount">报废传感器</string>
+    <string name="app_name">ZigBee环境监测助手</string>
+    <string name="bri">亮度</string>
+    <string name="chart">统计图表</string>
+    <string name="flagmanage">便签管理</string>
+    <string name="help">帮助</string>
+    <string name="hum">湿度</string>
+    <string name="inaccountinfo">查看已有传感器</string>
+    <string name="infomanage">收支管理</string>
+    <string name="login">系统登录</string>
+    <string name="main">ZigBee环境监测助手</string>
+    <string name="noise">噪声</string>
+    <string name="outaccountinfo">查看报废传感器</string>
+    <string name="showinfo">传感器管理</string>
+    <string name="smoke">烟雾浓度</string>
+    <string name="smoke2.5">PM2.5浓度</string>
+    <string name="sysset">系统设置</string>
+    <string name="tem">温度</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

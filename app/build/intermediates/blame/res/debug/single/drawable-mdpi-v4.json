@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\t.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\t.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\addoutaccount.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\addoutaccount.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\text.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\text.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\co.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\co.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\outaccountinfo.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\outaccountinfo.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\addinaccount.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\addinaccount.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\addinaccount.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\addinaccount.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\c.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\c.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\inaccountinfo.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\inaccountinfo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\accountflag.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\accountflag.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sysset.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\sysset.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\inaccountinfo.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\inaccountinfo.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sysset.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\sysset.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\press.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\press.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\android.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\android.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\l.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\l.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\showinfo.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\showinfo.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\accountflag.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\accountflag.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exit.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\appicon.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\appicon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\help.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\help.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\showinfo.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\showinfo.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\outaccountinfo.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\outaccountinfo.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\appicon.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\appicon.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\smoke.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\smoke.png"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\AccountMS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\addoutaccount.png",
+        "source": "E:\\AndroidStudioProjects\\AccountMS\\app\\src\\main\\res\\drawable-mdpi\\addoutaccount.png"
+    }
+]

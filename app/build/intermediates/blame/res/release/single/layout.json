@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\help.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\outaccountinfo.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\outaccountinfo.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\text.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\co2.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\co2.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\addinaccount.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\addinaccount.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\infomanage.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\infomanage.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\login.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\press.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\press.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\accountflag.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\accountflag.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\inaccountinfo.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\inaccountinfo.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\sysset.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\sysset.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\showinfo.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\showinfo.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\co.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\co.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\flagmanage.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\flagmanage.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\addoutaccount.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\addoutaccount.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\gvitem.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\gvitem.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\chart.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\chart.xml"
+    },
+    {
+        "merged": "E:\\Android-Project\\money\\app\\build\\intermediates\\res\\merged\\release\\layout\\smkoe.xml",
+        "source": "E:\\Android-Project\\money\\app\\src\\main\\res\\layout\\smkoe.xml"
+    }
+]

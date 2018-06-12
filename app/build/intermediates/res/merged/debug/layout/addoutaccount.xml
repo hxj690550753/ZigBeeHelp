@@ -1,0 +1,156 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/item"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	>
+	<LinearLayout 
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="3"
+		>
+		<TextView 
+			android:layout_width="wrap_content"
+			android:layout_gravity="center"
+			android:gravity="center_horizontal"
+			android:text="报废传感器"
+			android:textSize="40sp"
+			android:textColor="#20B2AA"
+			android:textStyle="bold" 
+			android:layout_height="wrap_content"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			android:padding="10dp">
+
+			<TextView
+				android:id="@+id/tvMoney"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignBaseline="@+id/txtMoney"
+				android:layout_alignBottom="@+id/txtMoney"
+				android:layout_alignParentLeft="true"
+				android:layout_marginLeft="16dp"
+				android:text="传感器ID："
+				android:textSize="20sp"></TextView>
+
+            <EditText
+                android:id="@+id/txtMoney"
+                android:layout_width="210dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/tvMoney"
+                android:hint="15111xxx"
+                android:inputType="number"
+                android:maxLength="9"
+                android:numeric="integer" />
+
+            <TextView
+                android:id="@+id/tvTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/txtTime"
+                android:layout_alignBottom="@+id/txtTime"
+                android:layout_toLeftOf="@+id/txtMoney"
+                android:text="报废时间："
+                android:textSize="20sp"></TextView>
+
+			<EditText
+				android:id="@+id/txtTime"
+				android:layout_width="210dp"
+				android:layout_height="wrap_content"
+				android:layout_below="@id/txtMoney"
+				android:layout_toRightOf="@id/tvTime"
+				android:hint="2015-01-01"
+				android:inputType="datetime" />
+
+			<TextView
+				android:id="@+id/tvType"
+				android:layout_width="100dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/tvMoney"
+				android:layout_below="@+id/txtTime"
+				android:text="类  别："
+				android:textSize="20sp"></TextView>
+
+			<Spinner
+				android:id="@+id/spType"
+				android:layout_width="210dp"
+				android:layout_height="wrap_content"
+				android:layout_below="@+id/spType2"
+				android:layout_toEndOf="@+id/tvMoney"
+				android:entries="@array/protype" />
+
+			<Spinner
+				android:id="@+id/spType2"
+				android:layout_width="210dp"
+				android:layout_height="wrap_content"
+				android:layout_below="@id/txtTime"
+				android:layout_toRightOf="@id/tvType"
+				android:entries="@array/intype" />
+
+			<TextView
+				android:id="@+id/tvAddress"
+				android:layout_width="100dp"
+				android:layout_height="wrap_content"
+				android:layout_alignStart="@+id/tvMoney"
+				android:layout_alignTop="@+id/spType"
+				android:text="所属项目："
+				android:textSize="20sp"></TextView>
+
+			<TextView
+				android:id="@+id/tvMark"
+				android:layout_width="90dp"
+				android:layout_height="wrap_content"
+				android:layout_alignEnd="@+id/tvMoney"
+				android:layout_centerVertical="true"
+				android:text="备  注："
+				android:textSize="20sp"></TextView>
+
+			<EditText
+				android:id="@+id/txtMark"
+				android:layout_width="210dp"
+				android:layout_height="150dp"
+				android:layout_alignParentBottom="true"
+				android:layout_marginBottom="41dp"
+				android:layout_toEndOf="@+id/tvMoney"
+				android:gravity="top"
+				android:singleLine="false" />
+		</RelativeLayout>
+	</LinearLayout>
+	<LinearLayout 
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="3"
+		>
+		<RelativeLayout android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:padding="10dp"
+		    >
+		<Button
+		    android:id="@+id/btnCancel"
+		    android:layout_width="80dp"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginLeft="10dp"
+		    android:text="取消"
+		    />
+		    <Button 
+			android:id="@+id/btnSave"
+			android:layout_width="80dp"
+		    android:layout_height="wrap_content"
+			android:layout_toLeftOf="@id/btnCancel"
+			android:text="保存"    
+		    />
+		</RelativeLayout>
+	</LinearLayout>	
+</LinearLayout>

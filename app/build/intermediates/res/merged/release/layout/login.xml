@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+	>
+
+	<TextView
+		android:id="@+id/tvLogin"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignStart="@+id/txtLogin"
+		android:layout_marginBottom="231dp"
+		android:text="请输入密码："
+		android:textColor="#20B2AA"
+		android:textSize="25sp" />
+
+	<EditText
+		android:id="@+id/txtLogin"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="167dp"
+		android:hint="请输入密码(首次请直接登陆)"
+		android:inputType="textPassword" />
+
+	<Button
+		android:id="@+id/btnClose"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentEnd="true"
+		android:layout_marginBottom="96dp"
+		android:layout_marginEnd="49dp"
+		android:text="取消" />
+
+	<Button
+		android:id="@+id/btnLogin"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentEnd="true"
+		android:layout_alignTop="@+id/btnClose"
+		android:layout_marginEnd="138dp"
+		android:text="登录" />
+
+	<ImageView
+		android:id="@+id/imageView"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:src="@drawable/android" />
+
+</RelativeLayout>
